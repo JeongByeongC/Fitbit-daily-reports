@@ -22,11 +22,8 @@ from tkcalendar import DateEntry
 from babel.numbers import *
 from tkinter import filedialog, messagebox, ttk
 
-ID_list = ['kumcpy008', 'kumcpy010', 'kumcpy011', 'kumcpy01', 'kumcpy02', 'kumcpy030', 'kumcpy031', 'kumcpy032', 'kumcpy033', 
-           'kumcpy034', 'kumcpy035', 'kumcpy036', 'kumcpy037', 'kumcpy038', 'kumcpy039', 'kumcpy040', 'kumcpy041', 'kumcpy042',
-           'kumcpy050', 'kumcpy051', 'kumcpy052', 'kumcpy053', 'kumcpy054', 'kumcpy055', 'kumcpy056', 'kumcpy059', 'kumcpy060',
-           'kumcpy062', 'kumcpy063', 'kumcpy064', 'kumcpy065', 'kumcpy067', 'kumcpy068', 'kumcpy069', 'kumcpy070', 'kumcpy071',
-           ]
+#ID list removed 
+ID_list = []
 
 def select_all():
     username_listbox.select_set(0, tk.END)
@@ -152,11 +149,8 @@ selected_usernames = []
 BASE_DATE = ""
 folder_selected = ""
 
-FITBIT_USERNAMES = ['kumcpy008', 'kumcpy010', 'kumcpy011', 'kumcpy01', 'kumcpy02', 'kumcpy030', 'kumcpy031', 'kumcpy032', 'kumcpy033', 
-           'kumcpy034', 'kumcpy035', 'kumcpy036', 'kumcpy037', 'kumcpy038', 'kumcpy039', 'kumcpy040', 'kumcpy041', 'kumcpy042',
-           'kumcpy050', 'kumcpy051', 'kumcpy052', 'kumcpy053', 'kumcpy054', 'kumcpy055', 'kumcpy056', 'kumcpy059', 'kumcpy060',
-           'kumcpy062', 'kumcpy063', 'kumcpy064', 'kumcpy065', 'kumcpy067', 'kumcpy068', 'kumcpy069', 'kumcpy070', 'kumcpy071',
-           ]
+# Fitbit ID removed
+FITBIT_USERNAMES = []
 
 username_listbox = tk.Listbox(root, selectmode=tk.MULTIPLE, font=("Helvetica", 14), height=18)
 username_listbox.grid(row=0, column=0, padx=10)
