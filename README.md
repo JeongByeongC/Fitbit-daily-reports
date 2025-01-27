@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Fitbit daily reports project automates the processing and visualizaion of Fitbit data. This project is designed to complement a program installed in hospital wards, where Fitbit devices are configured to disable screen output to prevent patients from viewing real-time feedback [Fitbit Real-Time](https://github.com/JeongByeongC/Fitbit-Real-Time). The purpose of this project is to generate comprehensive daily reports based on Fitbit data, which can be shared with patients to encourage consistent Fitbit usage. If you want to see demo video click [here](#Demo-video).
+The Fitbit daily reports project automates the processing and visualizaion of Fitbit data. This project is designed to complement a program installed in hospital wards, where Fitbit devices are configured to disable screen output to prevent patients from viewing real-time feedback [Fitbit Real-Time](https://github.com/JeongByeongC/Fitbit-Real-Time). The purpose of this project is to generate comprehensive daily reports based on Fitbit data, which can be shared with patients to encourage consistent Fitbit usage. If you want to see demo video click [here](#Deme-Video).
 
 ## Features
 
@@ -84,5 +84,3 @@ pyinstaller --onefile save_fitbit_data_PDF.py --hidden-import openpyxl.cell._wri
 Once the executavle is created, simply run it by double cliking the excutable file in the dist folder.
 
 ## Deme Video
-
-![Image](https://github.com/user-attachments/assets/fe924f83-3312-4de1-b9e4-7bad485e27a6)
