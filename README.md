@@ -84,3 +84,4 @@ pyinstaller --onefile save_fitbit_data_PDF.py --hidden-import openpyxl.cell._wri
 Once the executavle is created, simply run it by double cliking the excutable file in the dist folder.
 
 ## Deme Video
+![Image](https://github.com/user-attachments/assets/d9c40455-ef4d-46b1-9d9d-b38549a355c9)
