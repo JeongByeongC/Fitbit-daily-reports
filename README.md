@@ -6,4 +6,14 @@ The Fitbit daily reports project automates the processing and visualizaion of Fi
 
 ## Features
 
-  + #Date Export#: 
+  + **User-Friendly GUI**: Provides a user-friendly graphical intercace for easy interaction.
+
+  + **Selective Data Extraction**: Allows users to extract data only from specific Fitbit devices as needed.
+
+  + **Custom Date Selection**: Enables users to generate reports fro speccific dates by chaging the date range.
+  
+  +  **Date Export**: Automates data export from Fitbit server using provieded APIs.
+
+  + **Data Visualization**: Creates figures from Fitbit data stored in excel files.
+
+## File Descriptions
