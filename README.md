@@ -28,4 +28,36 @@ The Fitbit daily reports project automates the processing and visualizaion of Fi
 
   + **utils.py**: General utility functions for data handling and formatting.
 
+## Prerequisites
+
+Ensure you have the following installed:
+
+  + Python 3.7 or higher
+
+  + Required Python libraries (see below)
+
+    + Babel==2.11.0
+   
+    + matplotlib==3.5.3
+   
+    + numpy==1.21.5
+   
+    + pandas==1.3.5
+   
+    + Requests==2.32.3
+   
+    + selenium==4.28.1
+   
+    + tkcalendar==1.6.1
+   
+    + undetected_chromedriver==3.5.5
+   
+    + webdriver_manager==4.0.2
+   
+    + or
+      ```
+      pip install -r requirements.txt
+      ```
+
+  + Google Chorme version 121.0.6167.185 (Official Build, 64-bit) necessary for Selenium
 
