@@ -61,3 +61,14 @@ Ensure you have the following installed:
 
   + Google Chorme version 121.0.6167.185 (Official Build, 64-bit) necessary for Selenium
 
+## Usage
+
+You can use the project in two ways:
+
+1. **Run Python Scripts**: Execute the provided Python scripts directly to generate daily PDF reports. For example:
+
+```
+python save_fitbit_data_PDF.py
+```
+
+2. **Create and Run Executable Files**: If you prefer ont to run Python scripts directly, you can create standalone excutable files using tooks like **pyinstaller**:
