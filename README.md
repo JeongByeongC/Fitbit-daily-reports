@@ -88,3 +88,7 @@ Once the executavle is created, simply run it by double cliking the excutable fi
 A video demo is available to showcase the functionality of the project. To ensure privacy, the video has been edited to exclude any visible IDs or sensitive information. Only the essential features and processes are demonstrated.
 
 ![Image](https://github.com/user-attachments/assets/6de44b5e-2e0d-4405-ac19-c5b1c55539b1)
+
+Reports example:
+
+![Image](https://github.com/user-attachments/assets/63d04cd7-6bfe-4e3d-b0cb-1cc17c1b0a6e)
