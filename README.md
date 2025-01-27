@@ -18,4 +18,14 @@ The Fitbit daily reports project automates the processing and visualizaion of Fi
 
 ## File Descriptions
 
-  + '''ExpeortWebAPI.py''':
+  + **ExpeortWebAPI.py**: Handles exporting Fitbit data through the Fitbit Web API.
+
+  + **plot_with_xlsx.py**: Generates visualizations from Fitbit data stored in Excel files.
+
+  + **save_fitbit_data_PDF.py**: Converts processed Fitbit data into formatted PDF reports.
+
+  + **token_utils.py**: Contains helper functions to manage APU tokens securely.
+
+  + **utils.py**: General utility functions for data handling and formatting.
+
+
